@@ -1,0 +1,14 @@
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\Main.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\models\CellStatus.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\models\ChatQueueInfo.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\models\Game.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\models\GameField.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\models\MoveOrder.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\models\UserState.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\schedulers\QueueMatcher.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\services\ChatService.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\services\GameService.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\services\QueueService.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\telegram\MessagesUtils.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\telegram\ReplyKeyboardUtils.java
+C:\git\seabattle-telegram-bot\src\main\java\com\aoverin\telegram\TelegramBot.java
