@@ -25,3 +25,7 @@
 hs_err_pid*
 
 my_SeaBattleBot
+
+target/
+
+file.png
